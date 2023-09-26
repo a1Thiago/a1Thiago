@@ -12,6 +12,6 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnol
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)]() [![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)]() [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]() [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)]() [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)]() [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]() [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)]()
 
 <p align="center">
-  <img src="https://github-readme-stats-nine-gamma-52.vercel.app/api/top-langs/?username=a1thiago&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut-vertical" alt="Top Languages">
+  <img src="https://github-readme-stats-nine-gamma-52.vercel.app/api/top-langs/?username=a1thiago&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut-vertical&cache_seconds=86400" alt="Top Languages">
 </p>
 Fique à vontade para explorar meus projetos e entrar em contato. Vamos colaborar juntos e construir coisas incríveis! 😉
