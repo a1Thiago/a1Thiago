@@ -3,7 +3,17 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-a1Thiago-blue?style=flat-square&logo=github)](https://github.com/a1Thiago) [![LinkedIn](https://img.shields.io/badge/LinkedIn-a1Th-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/a1Th/)
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e estou em busca de uma oportunidade para fazer a transição profissional e expandir meus conhecimentos. Sou uma pessoa dedicada, pró-ativa e orientada para o aprendizado contínuo.
+Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, em busca de oportunidades para fazer a transição profissional e expandir meus conhecimentos. Dedicado, pró-ativo e orientado para o aprendizado contínuo.
+
+## Projetos Pessoais Favoritos
+
+### Encontre as Placas de Vídeo mais Baratas
+
+Feito em C# Blazor para o frontend e NestJS para o backend. A proposta é oferecer comparações detalhadas para ajudar na tomada de decisões de compra, especialmente focado em placas de vídeo. [Clique aqui para acessar](https://hardware-prices.azurewebsites.net/)
+
+### Comparador de Preços de Itens CS:GO/CS2
+
+Desenvolvido em Next.js/React, foi uma incrível jornada que me proporcionou conhecimentos em PostgreSQL, Redis, Drizzle, Docker etc. Trata-se de um comparador de preços de itens de CS:GO/CS2 no Brasil, permitindo encontrar as melhores ofertas, economizar em skins, facas e mais. Compare com o Mercado da Steam para garantir o melhor valor. [Clique aqui para acessar](https://steam-market-compare.a1th.dev/)
 
 ## Tecnologias e Ferramentas
 
@@ -14,4 +24,5 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnol
 <p align="center">
   <img src="https://github-readme-stats-nine-gamma-52.vercel.app/api/top-langs/?username=a1thiago&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut-vertical&cache_seconds=86400" alt="Top Languages">
 </p>
+
 Fique à vontade para explorar meus projetos e entrar em contato. Vamos colaborar juntos e construir coisas incríveis! 😉
