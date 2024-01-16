@@ -9,7 +9,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnol
 
 ### Encontre as Placas de Vídeo mais Baratas
 
-Feito em C# Blazor para o frontend e NestJS para o backend. A proposta é oferecer comparações detalhadas para ajudar na tomada de decisões de compra, especialmente focado em placas de vídeo. [Clique aqui para acessar](https://hardware-prices.azurewebsites.net/)
+Feito em C# Blazor para o frontend e NestJS para o backend. A proposta é oferecer comparações detalhadas para ajudar na tomada de decisões de compra, atualmente focado em placas de vídeo. O site conta com mais de 10 opções de lojas, incluindo Amazon, Kabum, Pichau, Terabyte, e outras. Os dados do site são atualizados pelo menos uma vez por hora, proporcionando informações frequentemente atualizadas. [Clique aqui para acessar](https://hardware-prices.azurewebsites.net/)
 
 ### Comparador de Preços de Itens CS:GO/CS2
 
