@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=a1Thiago&color=blueviolet)
 # Olá, eu sou Thiago! 🚀
 
-[![GitHub](https://img.shields.io/badge/GitHub-a1Thiago-blue?style=flat-square&logo=github)](https://github.com/a1Thiago) [![LinkedIn](https://img.shields.io/badge/LinkedIn-a1Th-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/a1Th/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a1Th-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/a1Th/)
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, em busca de oportunidades para fazer a transição profissional e expandir meus conhecimentos. Dedicado, pró-ativo e orientado para o aprendizado contínuo.
 
