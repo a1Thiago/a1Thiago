@@ -15,6 +15,26 @@ Feito em C# Blazor para o frontend e NestJS para o backend. A proposta é oferec
 
 Desenvolvido em Next.js/React, foi uma incrível jornada que me proporcionou conhecimentos em PostgreSQL, Redis, Drizzle, Docker etc. Trata-se de um comparador de preços de itens de CS:GO/CS2 no Brasil, permitindo encontrar as melhores ofertas, economizar em skins, facas e mais. Compare com o Mercado da Steam para garantir o melhor valor. [Clique aqui para acessar](https://steam-market-compare.a1th.dev/)
 
+## Outros Projetos
+
+### WhazzApp
+
+[Clique aqui para acessar](https://chromewebstore.google.com/detail/whazzapp/angimjogdllmjbcnlgeeddgiempohmda)
+
+Potencialize sua experiência no WhatsApp Web com esta extensão, incluindo ícone de acesso rápido, abrir no WhatsApp com botão direito, colar da área de transferência e templates de mensagens.
+
+### Finished Games
+
+[Clique aqui para acessar](https://finished-games.a1th.dev/)
+
+Site simples desenvolvido para praticar React, Node.js e MySQL. Permite que usuários cadastrem e registrem informações sobre os jogos que jogaram, incluindo nome do jogo, imagem e tempo gasto.
+
+### GameList
+
+[Clique aqui para acessar](https://gamelist.a1th.dev/)
+
+Projeto React com Firebase para autenticação. Permite aos usuários favoritar, buscar e avaliar jogos, incluindo recursos como filtro, avaliação de até 5 estrelas e uma interface amigável.
+
 ## Tecnologias e Ferramentas
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]() [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)]() [![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)]() [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)]() [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)]() [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)]() [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)]() [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)]()
