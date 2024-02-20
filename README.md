@@ -7,7 +7,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnol
 
 ## Projetos Pessoais Favoritos
 
-### Encontre as Placas de Vídeo mais Baratas do Mercado
+### Encontre os Componentes mais Baratas do Mercado
 
 Feito em C# Blazor para o frontend e NestJS para o backend. A proposta é oferecer comparações detalhadas para ajudar na tomada de decisões de compra, atualmente focado em placas de vídeo e Processadores. O site conta com mais de 10 opções de lojas, incluindo Amazon, Kabum, Pichau, Terabyte, e outras. Os dados do site são atualizados pelo menos uma vez por hora, proporcionando informações frequentemente atualizadas. [Clique aqui para acessar](https://hardware-prices.azurewebsites.net/)
 
