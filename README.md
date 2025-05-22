@@ -9,7 +9,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnol
 
 ### Encontre os Componentes mais Baratas do Mercado
 
-Feito em C# Blazor para o frontend e NestJS para o backend. A proposta é oferecer comparações detalhadas para ajudar na tomada de decisões de compra, atualmente focado em placas de vídeo e Processadores. O site conta com mais de 10 opções de lojas, incluindo Amazon, Kabum, Pichau, Terabyte, e outras. Os dados do site são atualizados pelo menos uma vez por hora, proporcionando informações frequentemente atualizadas. [Clique aqui para acessar](https://hardware-prices.azurewebsites.net/)
+Feito em Nextjs para o frontend e NestJS para o backend. A proposta é oferecer comparações detalhadas para ajudar na tomada de decisões de compra, atualmente focado em placas de vídeo e Processadores. O site conta com mais de 20 opções de lojas, incluindo Amazon, Kabum, Pichau, Terabyte, e outras. Os dados do site são atualizados pelo menos uma vez por hora, proporcionando informações frequentemente atualizadas. [Clique aqui para acessar](https://hardwarebarato.com/)
 
 ### Comparador de Preços de Itens CS:GO/CS2
 
@@ -22,18 +22,6 @@ Desenvolvido em Next.js/React, foi uma incrível jornada que me proporcionou con
 [Clique aqui para acessar](https://chromewebstore.google.com/detail/whazzapp/angimjogdllmjbcnlgeeddgiempohmda)
 
 Potencialize sua experiência no WhatsApp Web com esta extensão, incluindo ícone de acesso rápido, abrir no WhatsApp com botão direito, colar da área de transferência e templates de mensagens.
-
-### Finished Games
-
-[Clique aqui para acessar](https://finished-games.a1th.dev/)
-
-Site simples desenvolvido para praticar React, Node.js e MySQL. Permite que usuários cadastrem e registrem informações sobre os jogos que jogaram, incluindo nome do jogo, imagem e tempo gasto.
-
-### GameList
-
-[Clique aqui para acessar](https://gamelist.a1th.dev/)
-
-Projeto React com Firebase para autenticação. Permite aos usuários favoritar, buscar e avaliar jogos, incluindo recursos como filtro, avaliação de até 5 estrelas e uma interface amigável.
 
 ## Tecnologias e Ferramentas
 
